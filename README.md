@@ -20,7 +20,7 @@ Proyek ini bertujuan untuk melakukan visualisasi data karyawan menggunakan Pytho
 4. NumPy
 5. Matplotlib
 
-Tahapan Pengerjaan
+# Tahapan Pengerjaan
 1. Mengimpor library yang diperlukan.
 2. Memuat dan menampilkan dataset.
 3. Mengidentifikasi nama kolom yang digunakan.
