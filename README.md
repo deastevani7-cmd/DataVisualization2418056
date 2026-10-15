@@ -44,3 +44,12 @@ Hasil visualisasi membantu menggambarkan distribusi karyawan berdasarkan kategor
 
 # Kesimpulan
 Visualisasi data mempermudah proses analisis karena informasi ditampilkan secara grafis dan mudah dipahami. Hasilnya dapat mendukung evaluasi serta pengambilan keputusan dalam pengelolaan sumber daya manusia.
+
+# Google Drive
+Dataset kotor dan dataset bersih dapat dilihat melalui:
+https://drive.google.com/drive/folders/11tODUjnQ-B-rYNc6QXoA69ogad_7v7jv?usp=sharing
+
+# Google Colab
+Coding proses data Visualisasi dapat dilihat melalui:
+https://colab.research.google.com/drive/1EK2eNIl8541cztZqamm5HzufffEOn3lA?usp=sharing
+
