@@ -43,7 +43,7 @@ Visualisasi yang dibuat meliputi:
 Hasil visualisasi membantu menggambarkan distribusi karyawan berdasarkan kategori yang tersedia dalam dataset. Grafik dapat digunakan untuk membandingkan jumlah karyawan pada setiap kategori dan menjadi dasar analisis lebih lanjut mengenai kondisi sumber daya manusia di perusahaan.
 
 # Kesimpulan
-Visualisasi data mempermudah proses analisis karena informasi ditampilkan secara grafis dan mudah dipahami. Hasilnya dapat mendukung evaluasi serta pengambilan keputusan dalam pengelolaan sumber daya manusia.
+Berdasarkan hasil visualisasi, grafik batang membantu memahami distribusi karyawan berdasarkan delapan variabel, seperti peran pekerjaan, jenis kelamin, attrition, lembur, departemen, dan kepuasan kerja. Visualisasi ini memudahkan perbandingan jumlah karyawan pada setiap kategori serta dapat menjadi dasar evaluasi dan pengambilan keputusan dalam pengelolaan sumber daya manusia.
 
 # Google Drive
 Dataset kotor dan dataset bersih dapat dilihat melalui:
